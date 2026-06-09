@@ -39,6 +39,7 @@ JobReady AI exists to provide the guidance, awareness and information that turns
 This project follows a disciplined, phased product development lifecycle. Every phase produces real documentation — not just code.
 
 ### ✅ Phase 1 — Product Discovery & Definition
+Documents open as downloads — click any link below to download and view.
 Complete. Six documents establishing who the user is, what their problem is, and what we will build.
 
 - [Problem Statement](JobReadyAI_ProblemStatement.pdf)
