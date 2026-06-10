@@ -86,7 +86,7 @@ The architecture is **LLM-agnostic by design** — switching between Gemini and 
 
 ## About the Builder
 
-Built by **Aditya Nagaria** — Product & Program Manager with 13+ years of experience across Life Sciences GxP environments, CI/CD governance, DevOps and Agile delivery, now building at the intersection of product management and applied AI.
+Built by **Aditya Nagaria** — Product & Program Manager with decade and a half years of experience across Life Sciences GxP environments, CI/CD governance, DevOps and Agile delivery, now building at the intersection of product management and applied AI.
 
 This project demonstrates the full product lifecycle: discovery, definition, prioritisation, architecture, and build — with the rigour of a regulated-industry background applied to GenAI product development.
 
